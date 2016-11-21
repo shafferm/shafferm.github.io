@@ -1,0 +1,33 @@
+body {
+	background-color: darkgray;
+	font-weight: 300;
+	font-family: 'Roboto', sans-serif;
+	color: lightgray;
+	margin-top: 20px;
+}
+
+h1 {
+	font-weight: 100;
+	font-size: 60px;
+	margin-bottom: 0px;
+}
+
+h2 {
+	font-weight: 300;
+}
+
+h4 {
+	margin-top: 0px;
+}
+
+.white-background {
+	background-color: white;
+}
+
+.buttons {
+	padding-top: 32px;
+}
+
+.title-image {
+	padding-top: 10px;
+}
