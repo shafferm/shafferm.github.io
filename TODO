@@ -1,3 +1,4 @@
-- Fix bug where my face is huge at top of screen
+- Fix bug where my face isn't a link on small screens
 - Vertically center images
 - Redo in Jekyll
+- Upgrade to bootstrap 5
